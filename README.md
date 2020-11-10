@@ -1,2 +1,2 @@
-# SaposyRanas
-juego en movimiento de sapos cruzando por autopista y lago modo texto
+# JVibora
+juego en movimiento  de una vibora comiendo modo texto
